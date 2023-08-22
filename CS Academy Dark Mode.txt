@@ -1,0 +1,3 @@
+document.getElementById("app").setAttribute("style","filter:invert(1);"); 
+document.getElementsByClassName("canvas-element")[0].setAttribute("style","filter:invert(1);"); 
+document.getElementsByClassName("canvas-element")[1].setAttribute("style","filter:invert(1);"); 
