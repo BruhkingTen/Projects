@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://github.com/BruhkingTen/Projects/blob/main/CS%20Academy%20Dark%20Mode"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BruhkingTen/Projects/main/Loadstring.lua"))()
